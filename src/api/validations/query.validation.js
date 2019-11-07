@@ -1,5 +1,5 @@
 const Joi = require('joi');
-const User = require('../models/product.model');
+const User = require('../models/query.model');
 
 module.exports = {
 

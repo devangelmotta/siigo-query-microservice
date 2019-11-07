@@ -9,7 +9,7 @@ const APIError = require('../utils/APIError');
 const { env, jwtSecret, jwtExpirationInterval } = require('../../config/vars');
 
 /**
- * User Schema
+ * Product Schema
  * @private
  */
 const productSchema = new mongoose.Schema({
